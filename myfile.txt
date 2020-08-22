@@ -24,9 +24,6 @@ Git Collaboration with GitHub:
 - git push
 - git set upstream origin master
 
-<<<<<<< HEAD
--changes from my pc 
-
-=======
-Changes from GitHub
->>>>>>> 6c638a30877283a2d23a8927803240c051a1dbc2
+- changes from my pc 
+- Changes from GitHub
+- some changes from GitHub
